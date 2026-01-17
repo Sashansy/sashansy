@@ -19,6 +19,7 @@
 <div>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="react logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="react logo"  />
+    <img width="45" height="45" src="https://img.icons8.com/dusk/64/dbeaver.png" alt="dbeaver"/>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" height="36" /></a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="38" alt="react logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="37" />
@@ -35,6 +36,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" height="40"/>
+  <img src="https://github.com/nastasia-ch/nastasia-ch/blob/main/media/icons/allure-testops-logo.svg" alt="jira" height="40"/>
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" alt="tetstrail" height="40"/>
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" alt="test-it" height="40"/>
   <img src="https://luna1.co/eb0187.png" alt="qase" height="45"/>
